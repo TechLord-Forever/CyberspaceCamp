@@ -1,0 +1,6 @@
+﻿  teststub.c
+c:\users\john\desktop\projects\2016 lunch & learns\03 mar - anti-debugging fun\antidbg\antidbg\teststub.c(40): warning C4013: 'adbg_CloseHandleException' undefined; assuming extern returning int
+  antihelpers.c
+  antidbg.c
+  Generating Code...
+  antidbg.vcxproj -> C:\Users\John\Desktop\Projects\2016 Lunch & Learns\03 Mar - Anti-Debugging Fun\antidbg\Debug\antidbg.exe
