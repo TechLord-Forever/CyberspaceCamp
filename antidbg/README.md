@@ -29,4 +29,5 @@ AntiDBG was developed using Microsoft Visual Studio 2015 building as Release x86
 Many anti-debugging checks focus on odd edge cases or very specific structures which may or may not be set on certain versions of Windows, or they may act differently under emulation. Some checks require the the debugger to step over the check, while others do not. All methods in AntiDBG have been tested under the conditions which they are designed work on Windows 10 64-bit. Most (if not all) should work on all over versions of Windows as well. AntiDBG shies away from checks which can only be used against specific debuggers or versions of Windows. 
 
 > Can I get more information?
+
 Sure. Check out a YouTube series that covers all of these methods. The first video can be located here: https://www.youtube.com/watch?v=UenXxfo8d5w
